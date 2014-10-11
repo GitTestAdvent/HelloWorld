@@ -3,8 +3,12 @@ Test2
 Test1
 Test3
 
+<<<<<<< HEAD
 
 Test 100
+=======
+Test 10
+>>>>>>> fddadcbdf69c66268d6875eafb296c731bb562b5
 
 
 Test 9
